@@ -6,7 +6,7 @@ Filter Data Based on Ages
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 
-1)First clone the Project Using git clone https://github.com/kishore8/grid-filter-UI.git to your local machine.
+1)First clone the Project Using 'git clone https://github.com/kishore8/grid-filter-UI.git' to your local machine.
 
 
 2)Run the command 'npm install' to install the dependencies.
